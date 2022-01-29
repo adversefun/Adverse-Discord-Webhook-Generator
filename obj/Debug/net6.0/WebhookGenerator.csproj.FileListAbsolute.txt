@@ -1,0 +1,15 @@
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\bin\Debug\net6.0\WebhookGenerator.exe
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\bin\Debug\net6.0\WebhookGenerator.deps.json
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\bin\Debug\net6.0\WebhookGenerator.runtimeconfig.json
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\bin\Debug\net6.0\WebhookGenerator.dll
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\bin\Debug\net6.0\ref\WebhookGenerator.dll
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\bin\Debug\net6.0\WebhookGenerator.pdb
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\obj\Debug\net6.0\WebhookGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\obj\Debug\net6.0\WebhookGenerator.AssemblyInfoInputs.cache
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\obj\Debug\net6.0\WebhookGenerator.AssemblyInfo.cs
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\obj\Debug\net6.0\WebhookGenerator.csproj.CoreCompileInputs.cache
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\obj\Debug\net6.0\WebhookGenerator.csproj.Fody.CopyLocal.cache
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\obj\Debug\net6.0\WebhookGenerator.dll
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\obj\Debug\net6.0\ref\WebhookGenerator.dll
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\obj\Debug\net6.0\WebhookGenerator.pdb
+C:\Users\54264\source\repos\WebhookGenerator\WebhookGenerator\obj\Debug\net6.0\WebhookGenerator.genruntimeconfig.cache
